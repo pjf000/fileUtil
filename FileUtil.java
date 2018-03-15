@@ -1,4 +1,4 @@
-package com.qihoo.finance.frs.utils.file;
+package com.test.utils.file;
 
 import net.lingala.zip4j.core.ZipFile;
 import net.lingala.zip4j.exception.ZipException;
@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by tong on 2018/3/8.
+ * Created by jeff on 2018/3/8.
  */
 public class FileUtil {
 
